@@ -1,5 +1,6 @@
-﻿using DMAWS.Models;  
+﻿using Microsoft.EntityFrameworkCore;
 
+namespace DMAWS.entities;
 public class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)

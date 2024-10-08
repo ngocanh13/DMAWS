@@ -1,4 +1,4 @@
-﻿namespace DMAWS.Models;
+﻿namespace DMAWS.entities;
 
 public class Employee
 {

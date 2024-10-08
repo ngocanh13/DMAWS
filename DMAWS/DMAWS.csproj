@@ -15,8 +15,4 @@
       <PackageReference Include="Skidbladnir.Repository.EntityFrameworkCore" Version="1.7.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="entities\" />
-    </ItemGroup>
-
 </Project>
